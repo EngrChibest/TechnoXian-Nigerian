@@ -30,7 +30,7 @@ export default function Services (){
                         Problem Statement
                     </h3>
                     <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                        Young people graduating from high schools
+                        Younger people graduating from high schools
                         and tertiary institutions do not have the
                         required skills to get jobs, create jobs or
                         solve key societal problems that could result
